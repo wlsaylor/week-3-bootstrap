@@ -1,0 +1,28 @@
+body {
+    background-image: url("images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg"); /* Photo by Vishnu Mohanan on Unsplash https://unsplash.com/@vishnumaiea */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.mainpage {
+    margin-top: 20px;
+}
+
+
+.quotecard {
+    margin: 10px 10px 20px 10px;
+}
+
+/*** HOME PAGE***/
+
+.hero {
+    margin: 0px 10px 10px 20px;
+}
+
+/*** CONTACT PAGE ***/
+
+.contactform {
+    margin: 20px;
+    padding: 20px;
+}
