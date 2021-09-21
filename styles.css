@@ -1,3 +1,4 @@
+/*** OVERALL ***/
 body {
     background-image: url("images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg"); /* Photo by Vishnu Mohanan on Unsplash https://unsplash.com/@vishnumaiea */
     background-repeat: no-repeat;
@@ -8,7 +9,6 @@ body {
 .mainpage {
     margin-top: 20px;
 }
-
 
 .quotecard {
     margin: 10px 10px 20px 10px;
